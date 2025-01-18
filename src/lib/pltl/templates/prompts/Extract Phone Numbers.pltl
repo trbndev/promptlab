@@ -1,0 +1,11 @@
+Name: Extract Phone Numbers
+Category: Misc
+Author: Stephen Kaplan
+URL: https://ray.so/prompts/misc
+Content:
+
+Identify all phone numbers in the text and list them using markdown. Include anything that might be a phone number. If possible, provide the name of the person or company to which the phone number belongs.
+
+Text: {argument name="input"}
+
+Phone numbers:

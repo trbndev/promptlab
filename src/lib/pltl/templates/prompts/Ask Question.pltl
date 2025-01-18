@@ -1,0 +1,11 @@
+Name: Ask Question
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Rewrite the following text as a concise and friendly message, phrased as a question. This should be written in a way that it can be sent in a chat application like Slack.
+
+Text: {argument name="input"}
+
+Question:

@@ -1,0 +1,11 @@
+Name: Explain Like I'm a…
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Explain the text like I’m a {argument name="identity"}.
+
+Text: {argument name="input"}
+
+Explanation:

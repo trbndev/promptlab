@@ -1,0 +1,11 @@
+Name: Rephrase as Tweet - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Rewrite the text as a tweet that is casual and upbeat, creative and catchy, focused on key takeaways that challenge the status quo, engaging and punchy. Maintain URLs. Ensure the tweet is less than 25 words. Do not include hashtags or words starting with #. Maintain the original language.
+
+Text: {argument name="input"}
+
+Tweet:

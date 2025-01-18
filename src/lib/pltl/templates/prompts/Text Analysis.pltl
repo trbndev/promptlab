@@ -1,0 +1,11 @@
+Name: Text Analysis
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Analyze the text and provide insights on its tone, style, and potential audience.
+
+Text: {argument name="input"}
+
+Analysis:

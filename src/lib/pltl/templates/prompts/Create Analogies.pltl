@@ -1,0 +1,11 @@
+Name: Create Analogies
+Category: Ideas
+Author: Raycast Team
+URL: https://ray.so/prompts/ideas
+Content:
+
+Develop {argument name="amount"} creative analogies or metaphors that help explain the main idea of the text.
+
+Text: {argument name="input"}
+
+Analogies:

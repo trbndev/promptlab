@@ -1,0 +1,11 @@
+Name: Generate Icons
+Category: Writing
+Author: Stephen Kaplan
+URL: https://ray.so/prompts/writing
+Content:
+
+Generate base64 data URIs of 100x100 SVG icons representing the text. Do not provide any commentary other than the list of data URIs as markdown images. For each icon, explain how it relates to the text.
+
+Text: {argument name="input"}
+
+Icons:

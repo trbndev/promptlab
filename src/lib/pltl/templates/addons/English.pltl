@@ -1,0 +1,9 @@
+Name: Respond in English
+Category: Language
+Author: Torben Haack
+URL: https://github.com/trbndev
+Content:
+
+Respond to the following in English, maintaining any special formatting, code blocks, or technical terms:
+
+{argument name="input"}

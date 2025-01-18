@@ -1,0 +1,11 @@
+Name: Emoji Suggestion
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Suggest emojis that relate to the text. Suggest around 10 emojis and order them by relevance. Don't add any duplicates. Only respond with emojis.
+
+Text: {argument name="input"}
+
+Emojis:

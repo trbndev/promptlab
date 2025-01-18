@@ -1,0 +1,11 @@
+Name: Title Case
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Convert the text to title case.
+
+Text: {argument name="input"}
+
+Title case text:

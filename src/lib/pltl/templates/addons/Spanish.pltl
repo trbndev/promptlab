@@ -1,0 +1,9 @@
+Name: Respond in Spanish
+Category: Language
+Author: Torben Haack
+URL: https://github.com/trbndev
+Content:
+
+Responde a lo siguiente en español, manteniendo cualquier formato especial, bloques de código o términos técnicos:
+
+{argument name="input"}

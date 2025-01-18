@@ -1,0 +1,11 @@
+Name: Extract Email Addresses
+Category: Misc
+Author: Stephen Kaplan
+URL: https://ray.so/prompts/misc
+Content:
+
+Extract all email addresses in the text and list them using markdown. Include anything that might be an email address. If possible, provide the name of the person or company to which the email address belongs.
+
+Text: {argument name="input"}
+
+Email addresses:

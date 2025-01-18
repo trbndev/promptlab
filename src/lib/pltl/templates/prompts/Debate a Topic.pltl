@@ -1,0 +1,11 @@
+Name: Debate a Topic
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Take a stance on the topic and {argument name="stance"} it. Construct a convincing argument and provide evidence to support your stance.
+
+Topic: {argument name="input"}
+
+Argument:

@@ -1,0 +1,11 @@
+Name: Write a Song
+Category: Writing
+Author: Raycast Team
+URL: https://ray.so/prompts/writing
+Content:
+
+Write a song based on the given text. The song should have a clear melody, lyrics that tell a story, and a memorable chorus. The mood of the song should be {argument name=mood}.
+
+Text: {argument name="input"}
+
+Song:

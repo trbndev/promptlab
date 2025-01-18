@@ -1,0 +1,11 @@
+Name: Playlist Maker
+Category: Music
+Author: Raycast Team
+URL: https://ray.so/prompts/music
+Content:
+
+Act as a song recommender. Based on the given song, create a playlist of 10 similar songs. Provide a name and description for the playlist. Do not choose songs that are the same name or artist. Do not include the original song in the playlist.
+
+Song: {argument name="input"}
+
+Playlist:

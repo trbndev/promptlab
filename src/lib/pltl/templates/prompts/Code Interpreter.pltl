@@ -1,0 +1,11 @@
+Name: Code Interpreter
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+Act as a {argument name="language"} interpreter. Execute the {argument name="language"} code and reply with the output. Do not provide any explanations.
+
+Code: {argument name="input"}
+
+Output:

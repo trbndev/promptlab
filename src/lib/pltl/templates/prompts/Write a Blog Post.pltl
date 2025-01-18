@@ -1,0 +1,11 @@
+Name: Write a Blog Post
+Category: Writing
+Author: Raycast Team
+URL: https://ray.so/prompts/writing
+Content:
+
+Write a blog post on the topic. Don't use more than {argument name="number_of_words"} words
+
+Topic: {argument name="input"}
+
+Blog post:

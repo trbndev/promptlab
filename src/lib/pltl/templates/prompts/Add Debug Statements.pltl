@@ -1,0 +1,11 @@
+Name: Add Debug Statements
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+Act as a software engineer debugging its code. Add debug statements to the code. Add as many as necessary to make debugging easier.
+
+Code: {argument name="input"}
+
+Debugged code:

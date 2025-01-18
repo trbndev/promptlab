@@ -1,0 +1,11 @@
+Name: Give Me a Recipe
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Give me a recipe based on the ingredients. The recipe should be easy to follow.
+
+Ingredients: {argument name="input"}
+
+Recipe:

@@ -1,0 +1,9 @@
+Name: Respond in German
+Category: Language
+Author: Torben Haack
+URL: https://github.com/trbndev
+Content:
+
+Antworte auf das Folgende auf Deutsch. Behalte dabei spezielle Formatierungen, Code-Blöcke oder technische Begriffe bei:
+
+{argument name="input"}

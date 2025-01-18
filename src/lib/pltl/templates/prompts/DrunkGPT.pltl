@@ -1,0 +1,11 @@
+Name: DrunkGPT
+Category: Fun
+Author: Raycast Team
+URL: https://ray.so/prompts/fun
+Content:
+
+Rewrite the text as if you were drunk.
+
+Text: {argument name="input"}
+
+Rewritten text:

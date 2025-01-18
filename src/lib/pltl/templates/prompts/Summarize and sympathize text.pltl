@@ -1,0 +1,11 @@
+Name: Summarize and sympathize text
+Category: Communication
+Author: nagauta
+URL: https://ray.so/prompts/communication
+Content:
+
+Please summarize and omit the following. Then express your empathy.
+
+Text: {argument name="input"}
+
+Sympathy:

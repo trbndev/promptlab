@@ -1,0 +1,16 @@
+Name: BLUF Message
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Rewrite the following text as a bottom line up front (BLUF) message formatted in Markdown. The format of the message should be made of two parts:
+
+- The first part should be written in bold and convey the message's key information. It can either be a statement or a question. Don't lose any important detail in this part.
+- The second part should be put onto a new line. This should give more details and provide some background about the message.
+
+Make sure the message stays concise and clear so that readers don't lose extra time reading it.
+
+Text: {argument name="input"}
+
+Rewritten text:

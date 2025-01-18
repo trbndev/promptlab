@@ -1,0 +1,11 @@
+Name: Write 10 Alternatives
+Category: Ideas
+Author: Raycast Team
+URL: https://ray.so/prompts/ideas
+Content:
+
+Give me 10 alternative versions of the text. Ensure that the alternatives are all distinct from one another.
+
+Text: {argument name="input"}
+
+Alternatives:

@@ -1,0 +1,11 @@
+Name: Create Task List
+Category: Misc
+Author: Abner Shang
+URL: https://ray.so/prompts/misc
+Content:
+
+List detailed action steps in markdown format based on the provided text. Ensure the tasks can be efficiently completed.
+
+Text: {argument name="input"}
+
+Tasks:

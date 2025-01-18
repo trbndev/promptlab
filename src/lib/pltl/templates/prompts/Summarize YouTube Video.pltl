@@ -1,0 +1,20 @@
+Name: Summarize YouTube Video
+Category: Browser
+Author: Raycast Team
+URL: https://ray.so/prompts/browser
+Content:
+
+Create a summary of a YouTube video using its transcript. You will use the following template:
+
+"""
+## Summary
+{Multiple sentences summarising the YouTube video}
+
+## Notes
+{Bullet points that summarize the key points or important moments from the video’s transcript with explanations}
+
+## Quotes
+{Extract the best sentences from the transcript in a list}
+"""
+
+Transcript: {argument name="input"}

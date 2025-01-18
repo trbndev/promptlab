@@ -1,0 +1,12 @@
+Name: Convert the HTML code to Markdown
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+
+Convert the HTML code to Markdown.
+
+HTML code: {argument name="input"}
+
+Markdown:

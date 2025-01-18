@@ -1,0 +1,11 @@
+Name: Translate to Language
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Translate the text in {argument name="language"}.
+
+Text: {{argument name="input"}}
+
+Translation:

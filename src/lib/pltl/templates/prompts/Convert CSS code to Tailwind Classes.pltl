@@ -1,0 +1,11 @@
+Name: Convert CSS code to Tailwind Classes
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+Convert the following code into Tailwind CSS classes and give me the result in a code block. Make sure to remove any browser prefixes. Only give me what I can put into my HTML elements `class` properties.
+
+Code: {argument name="input"}
+
+Tailwind CSS classes:

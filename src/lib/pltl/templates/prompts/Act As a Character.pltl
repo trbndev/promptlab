@@ -1,0 +1,11 @@
+Name: Act As a Character
+Category: Fun
+Author: Raycast Team
+URL: https://ray.so/prompts/fun
+Content:
+
+Rewrite the text as if you were {argument name="character"}. Use {argument name="character"}'s tone, manner and vocabulary. You must know all of the knowledge of {argument name="character"}.
+
+Text: {argument name="input"}
+
+Rewritten text:

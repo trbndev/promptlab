@@ -1,0 +1,11 @@
+Name: Create a Calendar Event
+Category: Communication
+Author: Roel Van Gils
+URL: https://ray.so/prompts/communication
+Content:
+
+Create a calendar event in ICS format based on the information. Include the start time, the end time, the location, all attendees, and a summary. If no end time is provided, assume the event will be one hour long. Add a reminder 1 hour before the event starts and 1 day before the event starts. Don't include the PRODID property. Only output the code block. Don't add any comments.
+
+Information: {argument name="input"}
+
+ICS:

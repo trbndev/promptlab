@@ -1,0 +1,11 @@
+Name: Git Commands
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+Translate the text to Git commands. Only reply one unique code block, and nothing else. Do not write explanations.
+
+Text: {argument name="input"}
+
+Git commands:

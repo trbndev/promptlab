@@ -1,0 +1,11 @@
+Name: Auto CoT
+Category: Reasoning
+Author: Torben Haack
+URL: https://github.com/trbndev
+Content:
+
+Think about following step by step and respond accordingly:
+
+{argument name="input"}
+
+

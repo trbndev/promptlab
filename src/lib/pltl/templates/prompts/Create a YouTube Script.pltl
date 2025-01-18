@@ -1,0 +1,11 @@
+Name: Create a YouTube Script
+Category: Writing
+Author: Raycast Team
+URL: https://ray.so/prompts/writing
+Content:
+
+Create a compelling and captivating YouTube script based on the text. Make sure to include B-Rolls in the script. Make the script as long as necessary to make a video of {argument name=minutes default=10} minutes.
+
+Text: {argument name="input"}
+
+Script:

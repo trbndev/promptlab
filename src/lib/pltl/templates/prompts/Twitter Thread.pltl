@@ -1,0 +1,11 @@
+Name: Twitter Thread
+Category: Writing
+Author: Raycast Team
+URL: https://ray.so/prompts/writing
+Content:
+
+Convert the text into a list of tweets (= Twitter thread). The first tweet should be clear and engaging. Each tweet should flow smoothly into the next, building anticipation and momentum. The last tweet should be impactful so that the user can reflect on the whole thread. Make sure each tweet doesn't exceed 280 characters. Don't add a single hashtag to any of the tweets.
+
+Text: {argument name="input"}
+
+Tweets:

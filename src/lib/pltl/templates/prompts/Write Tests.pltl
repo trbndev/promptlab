@@ -1,0 +1,15 @@
+Name: Write Tests
+Category: Code
+Author: Alireza Sheikholmoluki
+URL: https://ray.so/prompts/code
+Content:
+
+As a software developer, I am currently working on a project using {argument name="tech_stack"}. I would like you to help me generate unit tests for the given code. Analyze the given code and provide a single unit test with the necessary imports, without any additional explanations or comments, unless absolutely necessary. Avoid repeating imports and mocks you've mentioned already.
+
+If I say 'next,' please give me another test for the same code. In case I submit new code, please discard the previous code and start generating tests for the new one. Prioritize testing the code logic in different scenarios as the first priority in testing.
+
+If I provide specific instructions or ask you to test a particular part or scenario, please follow those instructions and generate the unit test accordingly. If I send you an error, fix the problem and only return the lines which need to be changed in a readable format. Please format the output as a unique code block.
+
+Code: {argument name="input"}
+
+Output:

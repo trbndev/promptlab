@@ -1,0 +1,12 @@
+Name: Write Docstring
+Category: Code
+Author: Raycast Team
+URL: https://ray.so/prompts/code
+Content:
+
+
+Write a docstring for the function. Make sure the documentation is detailed.
+
+Function: {argument name="input"}
+
+Docstring:

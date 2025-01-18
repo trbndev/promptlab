@@ -1,0 +1,11 @@
+Name: Write a Story
+Category: Writing
+Author: Raycast Team
+URL: https://ray.so/prompts/writing
+Content:
+
+Write a story based on the text. Make the story engaging. The story shouldn't be more than {argument name="number_of_words"} words.
+
+Text: {argument name="input"}
+
+Story:

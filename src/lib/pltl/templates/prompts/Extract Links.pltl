@@ -1,0 +1,11 @@
+Name: Extract Links
+Category: Misc
+Author: Stephen Kaplan
+URL: https://ray.so/prompts/misc
+Content:
+
+Extract links in the text. Do not provide any commentary other than the list of Markdown links.
+
+Text: {argument name="input"}
+
+Links:

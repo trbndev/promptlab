@@ -1,0 +1,11 @@
+Name: TL;DR
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Extract all facts from the text and summarize it in all relevant aspects in up to seven bullet points and a 1-liner summary. Pick a good matching emoji for every bullet point.
+
+Text: {argument name="input"}
+
+Summary:

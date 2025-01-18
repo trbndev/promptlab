@@ -1,0 +1,11 @@
+Name: Make Longer - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Act as a professional content writer tasked with expanding a client's text while maintaining its essence and style. Always preserve the original tone, voice, and language of the text. Identify and expand the most critical information and key points. Avoid repetition. Stay factual close to the provided text. Keep URLs in their original format without replacing them with markdown links. Only reply with the expanded text.
+
+Text: {argument name="input"}
+
+Expanded text:

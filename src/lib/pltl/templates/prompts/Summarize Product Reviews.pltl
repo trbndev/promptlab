@@ -1,0 +1,11 @@
+Name: Summarize Product Reviews
+Category: Misc
+Author: Alireza Sheikholmolouki
+URL: https://ray.so/prompts/misc
+Content:
+
+Carefully read the product reviews below. Translate them to English and create a summary of all the reviews in English and list them as Pros and Cons in the bullet point format. Remember that each bullet point should be one sentence or at max two short sentences. Most frequently mentioned should come first in each list and every bullet point should have a percentage showing how much evidence the reviews have brought for that pro or con. At the end, write a paragraph about what I should pay attention to before buying this product.
+
+Product reviews: {argument name="input"}
+
+Summary:

@@ -1,0 +1,11 @@
+Name: Create Action Items
+Category: Misc
+Author: Stephen Kaplan
+URL: https://ray.so/prompts/misc
+Content:
+
+Generate a markdown list of action items to complete based on the text, using a unique identifier for each item as bold headings. If there are any errors in the text, make action items to fix them. In a sublist of each item, provide a description, priority, estimated level of difficulty, and a reasonable duration for the task.
+
+Text: {argument name="input"}
+
+Action items:

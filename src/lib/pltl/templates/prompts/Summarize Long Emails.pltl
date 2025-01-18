@@ -1,0 +1,22 @@
+Name: Summarize Long Emails
+Category: Communication
+Author: Alireza Sheikholmolouki
+URL: https://ray.so/prompts/communication
+Content:
+
+Help me summarize the key points from the email text into a maximum of 5 bullet points, each preferably one sentence, and at most two sentences. Also, identify any action items requested of me.
+
+Key points:
+<one-liner one>
+<one-liner two>
+...
+
+Asked from you:
+<action point one>
+<action point two>
+
+If there are no action items, the "Asked from you" section will be left empty.
+
+Email: {argument name="input"}
+
+Output:

@@ -1,0 +1,11 @@
+Name: Explain Code Step by Step - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Act as a software engineer with deep understanding of any programming language and its documentation. Explain how the code works step by step in a list. Be concise with a casual tone of voice and write it as documentation for others.
+
+Code: {argument name="input"}
+
+Explanation:

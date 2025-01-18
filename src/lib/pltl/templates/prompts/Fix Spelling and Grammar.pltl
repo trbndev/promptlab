@@ -1,0 +1,11 @@
+Name: Fix Spelling and Grammar - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Act as a spelling corrector and improver. Correct spelling, grammar, and punctuation. Maintain the original language. Never surround the rewritten text with quotes. Maintain URLs. Don't change emojis.
+
+Text: {argument name="input"}
+
+Fixed Text:

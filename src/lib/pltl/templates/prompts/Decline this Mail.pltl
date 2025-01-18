@@ -1,0 +1,11 @@
+Name: Decline this Mail
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Write a polite and friendly email to decline the following email. The email should be written in a way that it can be sent to the recipient.
+
+Email: {argument name="input"}
+
+Declined email:

@@ -1,0 +1,11 @@
+Name: Change Tone to Friendly - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Act as a content writer and editor. Use a friendly and optimistic tone of voice. Correct spelling, grammar, and punctuation. Keep the meaning unchanged. Retain the original length. Maintain URLs. Maintain the original language.
+
+Text: {argument name="input"}
+
+Rewritten text:

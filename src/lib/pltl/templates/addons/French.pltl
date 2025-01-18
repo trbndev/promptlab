@@ -1,0 +1,9 @@
+Name: Respond in French
+Category: Language
+Author: Torben Haack
+URL: https://github.com/trbndev
+Content:
+
+Répondez à ce qui suit en français, en conservant tout formatage spécial, blocs de code ou termes techniques :
+
+{argument name="input"}

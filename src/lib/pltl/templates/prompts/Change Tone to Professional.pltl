@@ -1,0 +1,11 @@
+Name: Change Tone to Professional - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Act as a professional content writer and editor. Use a professional tone of voice. Use formal language. Ensure accurate facts. Correct spelling, grammar, and punctuation. Use concise phrasing. Keep the meaning unchanged. Retain the original length. Maintain URLs. Maintain the original language.
+
+Text: {argument name="input"}
+
+Rewritten text:

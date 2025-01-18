@@ -1,0 +1,11 @@
+Name: Project Ideas
+Category: Ideas
+Author: Raycast Team
+URL: https://ray.so/prompts/ideas
+Content:
+
+Brainstorm 5 project ideas based on the text. Make sure the ideas are distinct from one another.
+
+Text: {argument name="input"}
+
+Ideas:

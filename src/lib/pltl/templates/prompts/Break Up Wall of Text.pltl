@@ -1,0 +1,12 @@
+Name: Break Up Wall of Text
+Category: Communication
+Author: Raycast Team
+URL: https://ray.so/prompts/communication
+Content:
+
+Take the wall of text below and write a cleaned up version inserting naturally appropriate paragraph breaks. It's important that the text does not change, only the whitespace.
+
+Wall of text:
+{argument name="input"}
+
+Cleaned up version:

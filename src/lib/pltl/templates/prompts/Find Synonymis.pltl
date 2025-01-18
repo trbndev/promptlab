@@ -1,0 +1,11 @@
+Name: Find Synonyms
+Category: Misc
+Author: Raycast Team
+URL: https://ray.so/prompts/misc
+Content:
+
+Find synonyms for the word. Words should exist. Do not write any explanations. Do not include the original word in the list. The list should not have any duplicates.
+
+Text: {argument name="input"}
+
+Synonyms:

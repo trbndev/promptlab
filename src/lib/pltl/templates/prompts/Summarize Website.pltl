@@ -1,0 +1,11 @@
+Name: Summarize Website - Editable
+Category: Raycast
+Author: Raycast Team
+URL: https://ray.so/prompts/raycast
+Content:
+
+Summarize the provided website with a concise and easy-to-read title, a one to two sentence summary with the most important information, and exactly three bullet points with the key takeaways. Always capture the tone, perspective, and POV of the author. Never come up with additional information.
+
+Website: {argument name="input"}
+
+Summary:
